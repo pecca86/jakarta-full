@@ -1,0 +1,16 @@
+
+z
+java:S1128"2Remove this unused import 'jakarta.inject.Inject'.(‘ø”şÿÿÿÿ8õ‰©Ì†2J$d0d1c021-2b54-40c7-b593-c6fb89150be7
+†
+java:S1128">Remove this unused import 'jakarta.persistence.EntityManager'.(·ïŸéúÿÿÿÿ8õ‰©Ì†2J$3ccbbc23-af66-48d3-b091-41b958b08480
+
+java:S1128"ERemove this unused import 'jakarta.persistence.EntityManagerFactory'.(‹ ñºûÿÿÿÿ8õ‰©Ì†2J$1e6e9e8b-ea83-4ba2-9f88-b9f11ba874b7
+Š
+java:S1128"BRemove this unused import 'jakarta.persistence.EntityTransaction'.(¡«Ä×üÿÿÿÿ8õ‰©Ì†2J$d3545892-7a6d-4156-8155-8b0795ba9ec0
+„
+java:S1128"<Remove this unused import 'jakarta.persistence.Persistence'.(ŸÖ¦µÿÿÿÿÿ8õ‰©Ì†2J$1201e8df-6cf9-44f8-a81c-c0930cf3223a
+Œ
+java:S1128
+"DRemove this unused import 'org.pekka.fulljakartaee.student.Student'.(â¡Õşÿÿÿÿ8õ‰©Ì†2J$5d7533f9-6b92-4587-9c45-b6dbc6983b87
+–
+java:S1128"NRemove this unused import 'org.pekka.fulljakartaee.student.StudentRepository'.(ØÆ¾ãşÿÿÿÿ8õ‰©Ì†2J$32506ea5-6faf-4acb-919c-1110b00590cd

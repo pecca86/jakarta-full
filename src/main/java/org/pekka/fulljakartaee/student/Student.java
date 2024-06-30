@@ -15,8 +15,8 @@ public class Student {
     @Column(name = "last_name")
     private String lastName;
 
-    @Column(name = "student_id_number")
-    private Long studentIdNubmer;
+    @Column(name = "student_id")
+    private Long studentId;
 
     public String getFirstName() {
         return firstName;
@@ -42,11 +42,11 @@ public class Student {
         this.lastName = lastName;
     }
 
-    public Long getStudentIdNubmer() {
-        return studentIdNubmer;
+    public Long getStudentId() {
+        return studentId;
     }
 
-    public void setStudentIdNubmer(Long studentIdNubmer) {
-        this.studentIdNubmer = studentIdNubmer;
+    public void setStudentId(Long studentId) {
+        this.studentId = studentId;
     }
 }
