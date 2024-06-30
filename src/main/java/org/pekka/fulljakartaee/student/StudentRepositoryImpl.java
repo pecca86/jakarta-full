@@ -2,6 +2,8 @@ package org.pekka.fulljakartaee.student;
 
 import jakarta.inject.Singleton;
 import jakarta.persistence.EntityManager;
+import jakarta.persistence.EntityManagerFactory;
+import jakarta.persistence.Persistence;
 import jakarta.persistence.PersistenceContext;
 
 import java.util.Optional;
